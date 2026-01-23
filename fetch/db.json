@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Likitha",
+      "email": "lik@gmail.com"
+    },
+    {
+      "name": "srinivas adapa",
+      "email": "srinua@gmail.com",
+      "id": "b675"
+    },
+    {
+      "id": "055b",
+      "name": "lik",
+      "email": "lik@gmail.com"
+    },
+    {
+      "id": "dbda",
+      "name": "harika",
+      "email": "harka@gmail.com",
+      "phone": 9876543210
+    },
+    {
+      "id": "942d",
+      "name": "harika",
+      "email": "harka@gmail.com",
+      "phone": 9876543210
+    }
+  ]
+}
