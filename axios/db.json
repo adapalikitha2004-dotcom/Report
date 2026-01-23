@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "562",
+      "name": "Harika",
+      "email": "Har@gmail.com",
+      "phone": 7654321289
+    },
+    {
+      "id": "093",
+      "name": "Swapna",
+      "email": "swapna@gmail.com",
+      "phone": 7654321123
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "id": "5937"
+    },
+    {
+      "id": "ca5c",
+      "name": "srinu",
+      "email": "srinu@gmail.com",
+      "phone": 6543217890
+    },
+    {
+      "id": "616a",
+      "name": "srinu",
+      "email": "srinu@gmail.com",
+      "phone": 6543217890
+    },
+    {
+      "id": "8841",
+      "name": "rithwik",
+      "email": "rith@gmail.com",
+      "phone": 6654576874
+    }
+  ]
+}
